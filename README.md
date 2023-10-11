@@ -6,7 +6,7 @@
 ## We use the following scenarios to certify our method:
 ### Car-Following Problem
 ### Continuous Stirred Tank Reactor(CSTR)
-
+<image src="Pictures/图片1.png">;
 ## We use the following algorithm:
 ### Takagi-Sugeno fuzzy inference system
 ### Soft Actor-Critic deep reinforcement learning algorithm
