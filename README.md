@@ -14,15 +14,14 @@ Continuous Stirred Tank Reactor(CSTR)
 <image src="Pictures/Actor-Critic.png">;
 ## The control effect can be viewed in the following GIFS:
 ### In Car-Following Problem:
-Traditional Fuzzy Control Effect:
+#### Traditional Fuzzy Control Effect:
 <image src="Pictures/CAR_Ori.gif">;
-With Our Method:
+#### With Our Method:
 <image src="Pictures/CAR_Imp.gif">;
-
 ### In CSTR Problem:
-Traditional Fuzzy Control Effect:
+#### Traditional Fuzzy Control Effect:
 <image src="Pictures/CSTR_Ori.gif">;
-With Our Method:
+#### With Our Method:
 <image src="Pictures/CSTR_Imp.gif">;
 
 
