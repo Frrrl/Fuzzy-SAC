@@ -2,9 +2,9 @@
 
 ## A project that optimize the fuzzy control method with deep reinforcement learning
 ## Our method is optimized for fuzzy control, and reinforcement learning algorithm can be applied to real process.
-
 ## We use the following scenarios to certify our method:
 ### Car-Following Problem
+<image src="Pictures/图片2.png">;
 ### Continuous Stirred Tank Reactor(CSTR)
 <image src="Pictures/图片1.png">;
 ## We use the following algorithm:
